@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solotion URL](https://github.com/najeeb-anwari/interactive-rating-component-using-flexbox)
+- Solution URL: [Solotion URL](https://github.com/najeeb-anwari/qr-code-component-using-flexbox)
 - Live Site URL: [Live URL](https://najeeb-anwari.github.io/qr-code-component-using-flexbox/)
 
 ## My process
