@@ -17,7 +17,7 @@
 
 body {
     background-color: var(--light-gray);
-    
+    padding: 1.2rem;
 }
 
 /* Main contents 
@@ -28,7 +28,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 95vh;
+    min-height: 95vh;
 }
 
 /* Card Styles
@@ -39,9 +39,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 90%;
-    min-width: 300px;
-    
+    max-width: 335px;
     padding: 15px;
     background-color: var(--white);
     border-radius: 20px;
@@ -67,11 +65,6 @@ main {
     color: var(--grayish-blue);
 }
 
-/* Queries 
---------------------- */
-@media (min-width: 375px) {
-    .card{
-        max-width: 335px;
-    }
-    
+footer {
+    margin-top: 1.2rem;
 }
